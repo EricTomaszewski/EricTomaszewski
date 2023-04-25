@@ -17,7 +17,12 @@
 **- 💞️ I’m looking to collaborate on**
 - => this combination of FINANCE, SCRAPING & DATA in Python:
 - https://www.reddit.com/r/progether/comments/10dt7xe/im_in_london_do_you_want_to_progether_in_python/
-- (one from general web and another one - focused purely on LinkedIn)
+- (one from general web and another one - focused purely on LinkedIn
+- => with something to show for it already but the project could really do with a person who knows Flask
+- 1. or other web app stuff
+- 2. plus databases
+- 3. and finally - cloud computing to deploy it / perhaps Docker/Kubernetes?
+- these 3 things is the expertise I'm yet to learn and could do with from people who dealt with it before)
  
 **- 📫 How to reach me:**
 - => CONNECT ON LINKEDIN: https://www.linkedin.com/in/irotom/ (but please, PLEASE leave an introduction message with the invite how you found me)
